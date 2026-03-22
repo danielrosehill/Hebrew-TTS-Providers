@@ -6,3 +6,5 @@ Source text:
 Hebrew ref audio
 
 Still gibberish!
+
+But logs show dicta onnx not loaded!
